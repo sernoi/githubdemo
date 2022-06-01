@@ -18,8 +18,7 @@ Group yourselves into six and using Flutter, create an animated login screen usi
 
 | Criterion     | Description                                                  | Percentage |
 | ------------- | ------------------------------------------------------------ | ---------- |
-| Source Code   | Project and code structure was properly organized with proper class or variable names along with some necessary comments if needed. | 20%        |
+| Source Code   | Project and code structure was properly organized with proper class or variable names along with some necessary comments if needed. | 30%        |
 | Functionality | App is working properly without bugs and gives proper responses if given with invalid data | 30%        |
 | Creativity    | Login screen elements have appropriate animations. Design or animation was creatively done. | 40%        |
-| Documentation | The README file was properly edited with instructions on how to use. Documentation is not using a generated content from the ``flutter create`` command | 10%        |
 | **Total**     |                                                              | **100%**   |
